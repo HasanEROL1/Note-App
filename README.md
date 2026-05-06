@@ -34,8 +34,10 @@ Kullanıcılar not ekleyebilir, düzenleyebilir, silebilir ve etiketler ile notl
 ---
 
 # ▶️ Kurulum ve Çalıştırma
-git clone https://github.com/kullanici-adi/notes-app.git
+```bash
+git clone https://github.com/HasanEROL1/Note-App
 cd notes-app
 npm install
 npm run dev
+```
 # Note-App
